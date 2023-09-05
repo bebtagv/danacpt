@@ -1,0 +1,166 @@
+{
+  "apps": [
+    {
+      "status": 1,
+      "redirect_url": "",
+      "privacy_policy_url": "https://sites.google.com/view/lunomosikvid",
+	  "email_feedback_and_report": "lynoku.square7@gmail.com",
+      "webview_cache": true,
+      "post_list_in_large_style": false,
+      "show_post_list_header": true,
+      "show_post_detail_image": true,
+      "show_post_detail_title": true,
+      "show_post_detail_category": true,
+      "show_related_posts": true,
+      "enable_rtl_mode": false,
+      "enable_exit_dialog": true,
+      "enable_app_protection": false,
+      "enable_dark_mode_as_default_theme": false,
+      "youtube_api_key": "0",
+      "base64_license_key": ""
+    }
+  ],
+  "ads": [
+    {
+      "ad_status": 1,
+      "main_ad": "fan",
+      "backup_ad": "ironsource",
+      "admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
+      "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
+      "admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
+      "admob_app_open_unit_id": "ca-app-pub-3940256099942544/3419835294",
+      "ad_manager_banner_unit_id": "/6499/example/banner",
+      "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
+      "ad_manager_native_unit_id": "/6499/example/native",
+      "ad_manager_app_open_unit_id": "/6499/example/app-open",
+      "fan_banner_unit_id": "IMG_16_9_APP_INSTALL#244321464744853_244321731411493",
+      "fan_interstitial_unit_id": "IMG_16_9_APP_INSTALL#244321464744853_244322121411454",
+      "fan_native_unit_id": "IMG_16_9_APP_INSTALL#244321464744853_244322228078110",
+      "startapp_app_id": "0",
+      "unity_game_id": "4089993",
+      "unity_banner_placement_id": "banner",
+      "unity_interstitial_placement_id": "video",
+      "applovin_banner_unit_id": "0",
+      "applovin_interstitial_unit_id": "0",
+      "applovin_native_manual_unit_id": "0",
+      "applovin_open_ad_unit_id": "0",
+      "applovin_banner_zone_id": "0",
+      "applovin_interstitial_zone_id": "0",
+      "ironsource_app_key": "1b80177dd",
+      "ironsource_banner_id": "DefaultBanner",
+      "ironsource_interstitial_id": "DefaultInterstitial",
+      "interstitial_ad_interval": 2,
+      "native_ad_index": 1,
+      "native_ad_interval": 5,
+      "native_ad_style": "medium",
+      "native_ad_post_details_position": "top",
+      "show_banner_ad_home": true,
+      "show_banner_ad_post_details": true,
+      "show_banner_ad_category_details": true,
+      "show_banner_ad_search": true,
+      "show_interstitial_ad_post_list": true,
+      "show_interstitial_ad_post_details": true,
+      "show_native_ad_post_list": true,
+      "show_native_ad_post_details": true,
+      "show_app_open_ad": true
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Tips Pinjaman Online Dana Cepat",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/danacpt%2Fbannerdanacept.png?alt=media&token=eeaf7a01-ce6c-404e-a486-58e1f42fc7b8"
+    }
+  ],
+  "posts": [{
+      "id": 1,
+      "category": "Tips Pinjaman Online Dana Cepat",
+      "title": "Tentang DanaCepat Pinjaman Online",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/danacpt%2Fbannerdanacept.png?alt=media&token=eeaf7a01-ce6c-404e-a486-58e1f42fc7b8",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/danacpt%2F1%20Tentang%20DanaCepat%20Pinjaman%20Online.html?alt=media&token=de635228-ab7f-4d7d-96d5-a20f2f3e570d",
+      "video": ""
+    },{
+      "id": 2,
+      "category": "Tips Pinjaman Online Dana Cepat",
+      "title": "Kelebihan dan Kekurangan DanaCepat",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/danacpt%2Fbannerdanacept.png?alt=media&token=eeaf7a01-ce6c-404e-a486-58e1f42fc7b8",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/danacpt%2F2%20Kelebihan%20dan%20Kekurangan%20DanaCepat.html?alt=media&token=27c10a69-175a-42bf-91ab-3f656f44a4f6",
+      "video": ""
+    },
+    {
+      "id": 3,
+      "category": "Tips Pinjaman Online Dana Cepat",
+      "title": "Cara Daftar Aplikasi DanaCepat",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/danacpt%2Fbannerdanacept.png?alt=media&token=eeaf7a01-ce6c-404e-a486-58e1f42fc7b8",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/danacpt%2F3%20Cara%20Daftar%20Aplikasi%20DanaCepat.html?alt=media&token=f4fc9f10-24bb-4892-af17-63bf65aee947",
+      "video": ""
+    },{
+      "id": 4,
+      "category": "Tips Pinjaman Online Dana Cepat",
+      "title": "Tips Terhindar Dari Galbay",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/danacpt%2Fbannerdanacept.png?alt=media&token=eeaf7a01-ce6c-404e-a486-58e1f42fc7b8",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/danacpt%2F4%20Tips%20Terhindar%20Dari%20Galbay.html?alt=media&token=ec95d8ab-b4f0-4347-9510-ca38cbeacf1f",
+      "video": ""
+    },{
+      "id": 5,
+      "category": "Tips Pinjaman Online Dana Cepat",
+      "title": "Tips Pilih Tenor Pinjaman Online",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/danacpt%2Fbannerdanacept.png?alt=media&token=eeaf7a01-ce6c-404e-a486-58e1f42fc7b8",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/danacpt%2F5%20Tips%20Pilih%20Tenor%20Pinjaman%20Online.html?alt=media&token=bc48d546-91c3-40df-b44a-c0343a797957",
+      "video": ""
+    },{
+      "id": 6,
+      "category": "Tips Pinjaman Online Dana Cepat",
+      "title": "Tips Membedakan Pinjaman Online Legal dan Ilegal",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/danacpt%2Fbannerdanacept.png?alt=media&token=eeaf7a01-ce6c-404e-a486-58e1f42fc7b8",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/danacpt%2F6%20Tips%20Membedakan%20Pinjaman%20Online%20Legal%20dan%20Ilegal.html?alt=media&token=87ab137b-4da6-46ec-818d-7bf59069201a",
+      "video": ""
+    },{
+      "id": 7,
+      "category": "Tips Pinjaman Online Dana Cepat",
+      "title": "Tips Menggunakan Pinjaman Online dengan bijak",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/danacpt%2Fbannerdanacept.png?alt=media&token=eeaf7a01-ce6c-404e-a486-58e1f42fc7b8",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/danacpt%2F7%20Tips%20Menggunakan%20Pinjaman%20Online%20dengan%20bijak.html?alt=media&token=9168a853-d535-458c-871b-ad8ec4a389eb",
+      "video": ""
+    },{
+      "id": 8,
+      "category": "Tips Pinjaman Online Dana Cepat",
+      "title": "Daftar Lender Pinjaman Online Tenor Panjang di Indonesia",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/danacpt%2Fbannerdanacept.png?alt=media&token=eeaf7a01-ce6c-404e-a486-58e1f42fc7b8",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/danacpt%2F8%20Daftar%20Lender%20Pinjaman%20Online%20Tenor%20Panjang%20di%20Indonesia.html?alt=media&token=58a4f9e2-062f-47dd-8b64-777643080024",
+      "video": ""
+    },{
+      "id": 9,
+      "category": "Tips Pinjaman Online Dana Cepat",
+      "title": "Daftar Lender Pinjaman Online Terpercaya di Indonesia",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/danacpt%2Fbannerdanacept.png?alt=media&token=eeaf7a01-ce6c-404e-a486-58e1f42fc7b8",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/danacpt%2F9%20Daftar%20Lender%20Pinjaman%20Online%20Terpercaya%20di%20Indonesia.html?alt=media&token=aafdf03e-f2b6-41ec-9a9e-68e5389e630e",
+      "video": ""
+    },{
+      "id": 10,
+      "category": "Tips Pinjaman Online Dana Cepat",
+      "title": "Mengenal Pinjaman Tanpa Bunga",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/danacpt%2Fbannerdanacept.png?alt=media&token=eeaf7a01-ce6c-404e-a486-58e1f42fc7b8",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/danacpt%2F10%20Mengenal%20Pinjaman%20Tanpa%20Bunga.html?alt=media&token=0333a366-fa3e-45d3-a567-0c248ed82140",
+      "video": ""
+    },{
+      "id": 11,
+      "category": "Tips Pinjaman Online Dana Cepat",
+      "title": "Tips Bayar Pinjaman Online Tepat Waktu",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/danacpt%2Fbannerdanacept.png?alt=media&token=eeaf7a01-ce6c-404e-a486-58e1f42fc7b8",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/danacpt%2F11%20Tips%20Bayar%20Pinjaman%20Online%20Tepat%20Waktu.html?alt=media&token=c01c98a3-ec51-46fa-95cc-e86e3c15e7a1",
+      "video": ""
+    },{
+      "id": 12,
+      "category": "Tips Pinjaman Online Dana Cepat",
+      "title": "Keuntungan Tenor Panjang dan Tenor Pendek",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/danacpt%2Fbannerdanacept.png?alt=media&token=eeaf7a01-ce6c-404e-a486-58e1f42fc7b8",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/danacpt%2F12%20Keuntungan%20Tenor%20Panjang%20dan%20Tenor%20Pendek.html?alt=media&token=d7a5953c-a140-4852-ba79-38a28c5835a7",
+      "video": ""
+    }
+	
+  ],
+  "more_apps": [
+    
+  ]
+}
